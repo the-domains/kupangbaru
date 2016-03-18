@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[kupangbaru]]></title>
+        <description><![CDATA[kupangbaru]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 18 Mar 2016 14:42:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kos baru di Jl. Kupang Baru I no. 140]]></title>
+            <description><![CDATA[<article><h1>Kos baru di Jl. Kupang Baru I no. 140</h1><p>Kos baru di Jl. Kupang Baru I no 140</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c045cc8f-0d4c-4375-86bd-9b240b5654ab.jpg"></article>]]></description>
+            <link>undefinedkos-baru-di-jl-kupang-baru-i-no-140/index.html</link>
+            <guid isPermaLink="false">9ba9954c-d9fa-4dbb-a340-efe6aeb0aa38</guid>
+            <pubDate>Fri, 18 Mar 2016 14:42:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
