@@ -1,0 +1,28 @@
+name: kupangbaru
+favicon: null
+layout_spectrum: 0.5180033855140209
+typography_spectrum: 0.4800802608951926
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8410635129548609
+  lightness: 0.24904571566730738
+  saturation: 0.3990796150173992
+  rhythmicContrast: 0.45151932118460536
+purpose: []
