@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Kupang Baru I no. 140, Surabaya]]></title>
         <description><![CDATA[Kupang Baru I no. 140, Surabaya]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kupangbaru/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 21:03:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 08 May 2016 21:04:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kupangbaru/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[the room]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2219d5e3-0777-464f-abb5-85be14e00f6c.jpg">]]></description>
+            <link>https://thegrid.ai/kupangbaru/the-room/index.html</link>
+            <guid isPermaLink="false">1410fecc-5561-4637-a4c9-c47f20b79433</guid>
+            <pubDate>Sun, 08 May 2016 21:04:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[the room]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d36a80c0-efd9-44d3-a21e-9a951bc671be.jpg">]]></description>
-            <link>undefinedthe-room/index.html</link>
+            <link>https://thegrid.ai/kupangbaru/the-room/index.html</link>
             <guid isPermaLink="false">5fba4f13-35c2-4e34-b2b3-d5a8cad466f5</guid>
             <pubDate>Sun, 08 May 2016 21:03:19 GMT</pubDate>
         </item>
